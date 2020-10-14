@@ -1,0 +1,10 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="2. MainResultsOmittedReflection (isEvenPureIf)" type="Application" factoryName="Application" folderName="MainResultsOmittedReflection">
+    <option name="MAIN_CLASS_NAME" value="com.kakhanov.MainResultsOmittedReflection" />
+    <module name="SwitchTest" />
+    <option name="PROGRAM_PARAMETERS" value="isEvenPureIf" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
