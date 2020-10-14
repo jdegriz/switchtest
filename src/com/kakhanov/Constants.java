@@ -1,6 +1,6 @@
 package com.kakhanov;
 
-public class Contants {
+public class Constants {
     public static int NUMBER_OF_TEST_RUNS = 100;
 
     public static int NUMBER_OF_ITERATIONS = 100_000_000;

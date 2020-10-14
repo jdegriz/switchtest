@@ -8,7 +8,7 @@ import java.util.Arrays;
 import java.util.concurrent.ThreadLocalRandom;
 import java.util.stream.IntStream;
 
-import static com.kakhanov.Contants.*;
+import static com.kakhanov.Constants.*;
 
 public class NumberGenerator {
     private static ThreadLocalRandom random = ThreadLocalRandom.current();
