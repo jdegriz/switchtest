@@ -1,5 +1,5 @@
 <component name="ProjectRunConfigurationManager">
-  <configuration default="false" name="4. MainResultsOmittedMethodHandle (isEvenSwitchOptimized) (1)" type="Application" factoryName="Application" folderName="MainResultsOmittedMethodHandle">
+  <configuration default="false" name="4. MainResultsOmittedMethodHandle (isEvenSwitchOptimized)" type="Application" factoryName="Application" folderName="MainResultsOmittedMethodHandle">
     <option name="MAIN_CLASS_NAME" value="com.kakhanov.MainResultsOmittedMethodHandle" />
     <module name="SwitchTest" />
     <option name="PROGRAM_PARAMETERS" value="isEvenSwitchOptimized" />
