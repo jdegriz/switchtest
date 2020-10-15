@@ -19,12 +19,14 @@ public class MainResultsOmitted {
 //    private static EvenCalculator calculator = MathUtil::isEvenPureIf;
 
     public static void main(String[] args) throws IOException {
+        System.out.println("Test name: " + MainResultsOmitted.class.getSimpleName());
+
         WARMUP_NUMBERS = readNumbers(Constants.WARMUP_NUMBERS_FILE_PATH);
         NUMBERS = readNumbers(Constants.NUMBERS_FILE_PATH);
 
         warmUp();
 
-        System.out.println("");
+        System.out.println();
 
         IntStream.range(0, Constants.NUMBER_OF_TEST_RUNS).forEach(i -> test());
     }

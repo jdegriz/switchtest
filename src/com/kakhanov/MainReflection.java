@@ -21,6 +21,7 @@ public class MainReflection {
     private static boolean[] otherResults;
 
     public static void main(String[] args) throws IOException, NoSuchMethodException, InvocationTargetException, IllegalAccessException {
+        System.out.println("Test name: " + MainReflection.class.getSimpleName());
         System.out.println("Method name: " + args[0]);
         calc = getEvenCalculatorMethodByName(args[0]);
 
@@ -32,7 +33,7 @@ public class MainReflection {
         clearResults(firstResults);
         warmUp();
 
-        System.out.println("");
+        System.out.println();
 
         IntStream.range(0, Constants.NUMBER_OF_TEST_RUNS)
                 .forEach(i -> {
