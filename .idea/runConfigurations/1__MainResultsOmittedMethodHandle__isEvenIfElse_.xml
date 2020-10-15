@@ -1,0 +1,10 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="1. MainResultsOmittedMethodHandle (isEvenIfElse)" type="Application" factoryName="Application" folderName="MainResultsOmittedMethodHandle">
+    <option name="MAIN_CLASS_NAME" value="com.kakhanov.MainResultsOmittedMethodHandle" />
+    <module name="SwitchTest" />
+    <option name="PROGRAM_PARAMETERS" value="isEvenIfElse" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>

@@ -1,0 +1,10 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="1. MainMethodHandle (isEvenIfElse)" type="Application" factoryName="Application" folderName="MainMethodHandle">
+    <option name="MAIN_CLASS_NAME" value="com.kakhanov.MainMethodHandle" />
+    <module name="SwitchTest" />
+    <option name="PROGRAM_PARAMETERS" value="isEvenIfElse" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
